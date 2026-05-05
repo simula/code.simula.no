@@ -1,5 +1,8 @@
 ---
 title: 'LightLayers'
 desc: 'LightLayers is a method for reducing the number of trainable parameters in deep neural networks.'
-link: https://github.com/DebeshJha/LightLayers
+github: https://github.com/DebeshJha/LightLayers
+domain: [ml-infrastructure]
+type: [model]
+language: [python]
 ---

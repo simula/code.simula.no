@@ -1,6 +1,0 @@
-ResUNet++
-ColonSegNet
-DoubleUNet
-NanoNet
-LightLayers
-ResUNetPlusPlus-with-CRF-and-TT
