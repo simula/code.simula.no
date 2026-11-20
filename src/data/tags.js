@@ -14,6 +14,7 @@ export const TAG_DEFINITIONS = [
     { tag: 'multimedia',        label: 'Multimedia',              category: 'domain'   },
     { tag: 'sports-analytics',  label: 'Sports analytics',        category: 'domain'   },
     { tag: 'simulation',        label: 'Simulation',              category: 'domain'   },
+    { tag: 'measurement',       label: 'Measurement',             category: 'domain'   },
     { tag: 'systems',           label: 'Systems & tooling',       category: 'domain'   },
     { tag: 'ml-infrastructure', label: 'ML infrastructure',       category: 'domain'   },
     { tag: 'library',           label: 'Library',                 category: 'type'     },
